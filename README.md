@@ -1,2 +1,3 @@
 # Machine-Learning-Lab-Sem.-VII
-Dr. Asudani Sir.
+Taught by Prof.
+Dr. Deepak Asudani Sir.
